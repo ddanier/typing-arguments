@@ -1,6 +1,6 @@
 [project]
 name = "typing-arguments"
-version = "0.3.0"
+version = "0.3.1"
 description = "Store references of your typing arguments to be available at runtime."
 readme = "README.md"
 authors = [{ name = "David Danier", email = "david.danier@gmail.com" }, { name = "TEAM23 GmbH", email = "info@team23.de" }]
