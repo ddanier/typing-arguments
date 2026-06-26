@@ -10,7 +10,7 @@ This is also true for classes based on `pydantic.BaseModel` for pydantic > 2.x.
 
 Just use `pip install typing-arguments` to install the library.
 
-**Note:** `typing-arguments` is tested on Python `3.10`, `3.11`, `3.12` and `3.13`. This is also ensured running
+**Note:** `typing-arguments` is tested on Python `3.10`, `3.11`, `3.12`, `3.13` and `3.14`. This is also ensured running
 all tests on all those versions using `tox`.
 
 ## Usage
